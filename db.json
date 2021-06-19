@@ -6,6 +6,20 @@
       "tech": "Sam Smith",
       "date": "2021-06-19T09:12:26.266Z",
       "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Hard drive fixed in workstation 002",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2021-06-19T13:57:51.100Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 Wireless Needs to be fixed",
+      "tech": "John Doe",
+      "attention": true,
+      "date": "2021-06-19T13:59:16.585Z"
     }
   ],
   "techs": [
